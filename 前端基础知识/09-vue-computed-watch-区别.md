@@ -12,7 +12,7 @@ Vue computed 和 watch 区别
 ## computed 有缓存
 
 - computed 有缓存，data 不变则缓存不失效
-- methods 无缓存，实时计算
+- watch 无缓存，实时计算
 
 ## 答案
 
